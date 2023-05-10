@@ -1,8 +1,6 @@
 package com.cursodevsuperior.dslist.service;
 
-import com.cursodevsuperior.dslist.dto.GameDTO;
-import com.cursodevsuperior.dslist.dto.GameListDTO;
-import com.cursodevsuperior.dslist.dto.GameMinDTO;
+import com.cursodevsuperior.dslist.dto.GameListDTO;;
 import com.cursodevsuperior.dslist.entities.GameList;
 import com.cursodevsuperior.dslist.repository.GameListRepository;
 import org.springframework.beans.factory.annotation.Autowired;
